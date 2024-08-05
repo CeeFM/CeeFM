@@ -1,5 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Colin</h1>
+<h1 align="center">Hi, I'm Colin</h1>
+<div align-"center">
+    🎩
+  🤟🤓👍
+</div>
 <h3 align="center">A driven junior developer / engineer looking for opportunities to build my career. In the meantime, I'm building meaningful and interesting projects that solve problems (or just bring a little more joy to life in general).</h3>
 
 <h3 align="left">Connect with me:</h3>
