@@ -1,19 +1,20 @@
 
-<h1 align="center">Hi, I'm Colin</h1>
+<h2 align="center">Hi, I'm Colin</h2>
 <div align="center">
     🎩
 </div>
 <div align="center">
   🤟🤓👍
 </div>
-<h3 align="center">A driven junior developer / engineer looking for opportunities to build my career. In the meantime, I'm building meaningful and interesting projects that solve problems (or just bring a little more joy to life in general).</h3>
+<h4 align="center">I'm a junior developer / engineer looking for opportunities to build my career. In the meantime, I'm building meaningful and interesting projects that solve problems (or just bring a little more joy to life in general).</h4>
+<h4 align="center">Whether you're looking for staff, contractors, or collaborators, I'm eager and ready to contribute to projects big and small. Connect with me via LinkedIn below or send me an email at colinfm88@gmail.com. I'd love to hear from you!</h4>
 
-<h3 align="center">Connect with me:</h3>
+<h5 align="center">Connect with me:</h5>
 <p align="center">
 <a href="https://linkedin.com/in/colinfm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="colinfm" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h5 align="center">Languages and Tools:</h5>
 <div align="center">
 <p align="left"><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
