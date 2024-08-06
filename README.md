@@ -4,7 +4,7 @@
     🎩
 </div>
 <div align="center">
-  🤟🤓👍
+  🤟🤓
 </div>
 <h4 align="center">I'm a junior developer / engineer looking for opportunities to build my career. In the meantime, I'm building meaningful and interesting projects that solve problems (or just bring a little more joy to life in general).</h4>
 <h4 align="center">Whether you're looking for staff, contractors, or collaborators, I'm eager and ready to contribute to projects big and small. Connect with me via LinkedIn below or send me an email at colinfm88@gmail.com. I'd love to hear from you!</h4>
