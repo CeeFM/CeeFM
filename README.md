@@ -1,13 +1,13 @@
 
-# Hi, my name is Colin
+# Hi, I'm Colin!
 <div>
     🎩
 </div>
 <div>
   🤟🤓🤟
 </div>
-<h4 align="center">I'm a developer / engineer looking for opportunities to build my career, after a decade plus working alongside product and dev teams in marketing, advertising, operations, and tech support roles. I know that professional experiences and opportunities will take time to find, and I'm dedicated to building meaningful and interesting projects that solve problems (or just bring a little more joy to life in general) in the meantime.</h4>
-<h4 align="center">Whether you're looking for staff, contractors, or collaborators, I'm eager and ready to contribute to projects big and small. Connect with me via LinkedIn below or send me an email at colinfm88@gmail.com. I'd love to hear from you!</h4>
+I'm a developer / engineer looking for opportunities to build my career, after a decade plus working alongside product and dev teams in marketing, advertising, operations, and tech support roles. I know that professional experiences and opportunities will take time to find, and I'm dedicated to building meaningful and interesting projects that solve problems (or just bring a little more joy to life in general) in the meantime.
+<h6 align="center">Whether you're looking for staff, contractors, or collaborators, I'm eager and ready to contribute to projects big and small. Connect with me via LinkedIn below or send me an email at colinfm88@gmail.com. I'd love to hear from you!</h6>
 
 <h5 align="center">Connect with me:</h5>
 <p align="center">
