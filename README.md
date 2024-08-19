@@ -18,7 +18,11 @@ https://github-readme-stats.vercel.app/api?username=CeeFM&theme=vue-dark&show_ic
 
 ## Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,dotnet,git,github,jquery,nodejs,npm,postman,py,react,ts,visualstudio,vscode,mysql,wordpress)](https://skillicons.dev)
+<p align="center">
+      <a href="https://skillicons.dev/">
+            <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,dotnet,git,github,jquery,nodejs,npm,postman,py,react,ts,visualstudio,vscode,mysql,wordpress" />
+      </a>
+</p>
 
 <h6 align="center">Whether you're looking for staff, contractors, or collaborators, I'm eager and ready to contribute to projects big and small. Connect with me via LinkedIn below or send me an email at colinfm88@gmail.com. I'd love to hear from you!</h6>
 
