@@ -1,11 +1,13 @@
-
-# Hi, I'm Colin!
+<h1 align="center">Hi, I'm Colin!</h1>
+<br />
 <div align="center">
       🎩
 </div>
 <div align="center">
   🤟🤓🤟
 </div>
+<br />
+<br />
 
 <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=CeeFM&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
@@ -19,7 +21,7 @@ I'm a developer / engineer looking for opportunities to build my career, after a
 
 <p align="center">
       <a href="https://skillicons.dev/">
-            <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,dotnet,git,github,jquery,nodejs,npm,postman,py,react,ts,visualstudio,vscode,mysql,wordpress" />
+            <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,dotnet,git,github,jquery,nodejs,npm,postman,py,react,ts,visualstudio,vscode,mysql,wordpress&perline=7" />
       </a>
 </p>
 
