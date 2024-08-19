@@ -1,9 +1,9 @@
 
 # Hi, I'm Colin!
-<div>
+<div align="center">
       🎩
 </div>
-<div>
+<div align="center">
   🤟🤓🤟
 </div>
 I'm a developer / engineer looking for opportunities to build my career, after a decade plus working alongside product and dev teams in marketing, advertising, operations, and tech support roles. I know that professional experiences and opportunities will take time to find, and I'm dedicated to building meaningful and interesting projects that solve problems (or just bring a little more joy to life in general) in the meantime.
